@@ -4,4 +4,4 @@ project(Algorithm C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(Algorithm
-        Day01/day01_05.c)
+        Day02/day02_04.c)
